@@ -50,7 +50,7 @@ yarn add @VendettaLovee/ZB-Baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:Itsukichann/Baileys
+yarn add github:VendettaLovee/ZB-Baileys
 ```
 
 Then import your code using:
